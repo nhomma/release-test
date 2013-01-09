@@ -7,15 +7,14 @@
   <packaging>jar</packaging>
 
   <name>release-test</name>
-  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
   <scm>
-    <connection>scm:git:http://github.com/brettporter/release-test</connection>
-    <developerConnection>scm:git:ssh://git@github.com/brettporter/release-test.git</developerConnection>
+    <connection>scm:git:http://github.com/maestrodev/release-test</connection>
+    <developerConnection>scm:git:ssh://git@github.com/maestrodev/release-test.git</developerConnection>
   </scm>
 
   <dependencies>
