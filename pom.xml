@@ -13,8 +13,8 @@
   </properties>
 
   <scm>
-    <connection>scm:git:http://github.com/maestrodev/release-test</connection>
-    <developerConnection>scm:git:ssh://git@github.com/maestrodev/release-test.git</developerConnection>
+    <connection>scm:git:http://github.com/nhomma/release-test</connection>
+    <developerConnection>scm:git:ssh://git@github.com/nhomma/release-test.git</developerConnection>
   </scm>
 
   <dependencies>
